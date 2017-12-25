@@ -1,0 +1,15 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,"C13,C19",SMD-1206_Pol,2,10uF,
+2,U1,TQFP-32_7x7mm_Pitch0.8mm,1,ATMEGA328-A,https://www.digikey.com/product-detail/en/microchip-technology/ATMEGA328-AUR/ATMEGA328-AURCT-ND/3440951
+3,"JP2,JP3",Pin_Header_Straight_1x02,2,CONN_01X02,
+4,"JP6,JP7",Pin_Header_Straight_1x12,2,CONN_01X12,
+5,U2,SOT-23-5,1,MIC5205,https://www.digikey.com/product-detail/en/microchip-technology/MIC5205-3.3YM5-TR/576-1259-1-ND/771886
+6,"C1,C2,C3,C10",C_0603,4,0.1uF,
+7,D3,LED_0603,1,Green,
+8,LED1,LED_0603,1,Red,
+9,"R2,R11",R_0603,2,10k,
+10,R6,R_0603,1,330,
+11,S1,SW_SPST_SKQG,1,Reset,https://www.digikey.com/products/en?keywords=CKN10361CT-ND
+12,SJ1,R_0603,1,Jumper_NO_Small,
+13,JP1,Pin_Header_Angled_1x06,1,CONN_01X06,
+14,Q1,Resonator_smd,1,Resonator,https://www.digikey.com/product-detail/en/murata-electronics-north-america/CSTCE8M00G55-R0/490-1195-1-ND/584632
