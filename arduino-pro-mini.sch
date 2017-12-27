@@ -70,12 +70,12 @@ $Comp
 L CONN_01X06 JP1
 U 1 1 5A3E2E4A
 P 1800 4500
-F 0 "JP1" H 1800 4150 50  0000 C CNN
+F 0 "JP1" H 1800 4850 50  0000 C CNN
 F 1 "CONN_01X06" V 1900 4500 50  0001 C CNN
 F 2 "Pin_Headers:Pin_Header_Angled_1x06" H 1800 4500 50  0001 C CNN
 F 3 "" H 1800 4500 50  0000 C CNN
 	1    1800 4500
-	-1   0    0    1   
+	-1   0    0    -1  
 $EndComp
 $Comp
 L CONN_01X02 JP2
@@ -561,7 +561,7 @@ U 1 1 5A3EAB0B
 P 3700 1600
 F 0 "SJ1" H 3700 1680 50  0000 C CNN
 F 1 "Jumper_NO_Small" H 3710 1540 50  0001 C CNN
-F 2 "Resistors_SMD:R_0603" H 3700 1600 50  0001 C CNN
+F 2 "arduino-pro-mini:jumper" H 3700 1600 50  0001 C CNN
 F 3 "" H 3700 1600 50  0000 C CNN
 	1    3700 1600
 	1    0    0    -1  
@@ -849,7 +849,7 @@ U 1 1 5A3F7F19
 P 9500 3050
 F 0 "Q1" H 9500 3275 50  0000 C CNN
 F 1 "Resonator" H 9500 3200 50  0000 C CNN
-F 2 "Crystals:Resonator_7.2x3mm" H 9475 3050 50  0001 C CNN
+F 2 "arduino-pro-mini:Resonator_smd" H 9475 3050 50  0001 C CNN
 F 3 "" H 9475 3050 50  0000 C CNN
 	1    9500 3050
 	0    -1   -1   0   
